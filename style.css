@@ -1,0 +1,13 @@
+input {
+    width: 100%;
+    font-size: 30px;
+}
+.simple {
+    width: 100px;
+}
+audio {
+    height: 100px;
+}
+img {
+    width: 70%;
+}
