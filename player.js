@@ -32,18 +32,6 @@ const playList = {
 };
 
 
-
-// const trackListEl = document.createElement('ul')
-//
-// const track_1_El = document.createElement('li');
-// track_1_El.append((playList.tracks[0].artistName + ': '+ playList.tracks[0].trackTitle));
-//
-// const track_2_El = document.createElement('li');
-// track_2_El.append((playList.tracks[1].artistName + ': '+ playList.tracks[1].trackTitle));
-//
-// trackListEl.append((track_1_El, track_2_El));
-// document.body.append((trackListEl))
-
 function renderPlayList(anyPlayList) {
         renderPlayListHeader(anyPlayList.playListInfo)
         renderTrack(anyPlayList.tracks[0])
