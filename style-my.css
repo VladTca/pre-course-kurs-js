@@ -1,0 +1,84 @@
+
+body {
+    /*background-image: url("cartoon.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+    background-color: linen;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.scv {
+    background-color: red;
+    text-align: center;
+}
+.scvh1{
+    margin-top: 250px;
+    font-size: xxx-large;
+}
+.navbar-brand {
+    margin-right: 0;
+    width: 450px;
+
+}
+
+.nav-link {
+    font-size: xx-large;
+}
+
+p {
+    margin-bottom: 30px;
+    font-size: x-large;
+}
+
+li a {
+    margin-left: 20px;
+    width: 200px;
+}
+
+.early-rounded-pict {
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 30%;
+    box-shadow: 5px -5px 5px 2px rebeccapurple;
+    padding: 1rem;
+}
+
+.container {
+    margin-top: 2rem;
+}
+
+.start-img {
+    height: 30rem;
+    width: fit-content;
+}
+
+.start-button {
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+
+.scm{
+    text-align: center;
+
+}
+
+input {
+    width: 100%;
+    font-size: 30px;
+}
+
+.simple {
+    width: 100px;
+}
+
+audio {
+    border: black;
+    height: 100px;
+}
+
+img {
+    width: 70%;
+}
